@@ -2,6 +2,7 @@
   "id": "1766487658847",
   "name": "Albert Einstein",
   "description": "Albert Einstein scientist.",
+  "voice": "charon",
   "imageUrl": "./image.png",
   "videoUrl": "./video.mp4",
   "createdAt": 1766487658848
